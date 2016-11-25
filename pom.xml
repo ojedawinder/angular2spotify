@@ -6,7 +6,7 @@
 	<groupId>com.spotify</groupId>
 	<artifactId>angular2spotify</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 
 	<name>angular2spotify</name>
 	<description>Spotify App</description>
